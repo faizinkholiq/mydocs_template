@@ -107,19 +107,3 @@ GitHub: [@faizinkholiq](https://github.com/faizinkholiq)
 ---
 
 _This README was generated with ❤️ by [Your Project Name]_.
-
-```markdown
-### Explanation of Sections:
-
-1. **Project Name**: Introduce the project and provide a brief summary.
-2. **Table of Contents**: Helps users quickly navigate the README file.
-3. **Features**: List the key features of your project.
-4. **Installation**: Step-by-step instructions on how to install and set up the project.
-5. **Usage**: Examples of how to use the project, including command-line and programmatic examples.
-6. **API Documentation**: Quick reference to API endpoints if applicable.
-7. **Contributing**: Guidelines on how to contribute to the project.
-8. **License**: Information about the licensing of the project.
-9. **Contact**: Provide contact information for the project maintainer.
-
-Feel free to customize this template to fit your project's specific needs.
-```
