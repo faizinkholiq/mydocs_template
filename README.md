@@ -19,6 +19,7 @@ A brief description of your project, what it does, and why it is useful.
   - [Contributing](#contributing)
   - [License](#license)
   - [Contact](#contact)
+  - [](#)
 
 ## Features
 
@@ -98,10 +99,11 @@ This project is licensed under the MIT License - see the LICENSE.txt file for de
 
 ## Contact
 
-Project Maintainer - Your Name
+Project Maintainer - Faizin Kholiq
 
-GitHub: @yourusername
+GitHub: [@faizinkholiq](https://github.com/faizinkholiq)
 
+<br><br>
 ---
 
 _This README was generated with ❤️ by [Your Project Name]_.
