@@ -9,8 +9,13 @@
   - [Module 1: \[Module Name\]](#module-1-module-name)
   - [Module 2: \[Module Name\]](#module-2-module-name)
 - [Data Flow and State Management](#data-flow-and-state-management)
-- [External Dependencies](#external-dependencies)
+- [Key Design Decisions](#key-design-decisions)
+  - [1. Decision 1](#1-decision-1)
+  - [2. Decision 2](#2-decision-2)
+- [Technology Stack](#technology-stack)
 - [Deployment Strategy](#deployment-strategy)
+- [Security Considerations](#security-considerations)
+- [Performance Considerations](#performance-considerations)
 - [Future Enhancements](#future-enhancements)
 - [Conclusion](#conclusion)
 
@@ -49,14 +54,32 @@ The data flow in **[Project Name]** follows the **[e.g., event-driven, request-r
 3. **Storage Layer**: Mention how and where data is stored.
 4. **Presentation Layer**: Explain how data is presented to users or other systems.
 
-## External Dependencies
+## Key Design Decisions
 
-**[Project Name]** relies on the following external libraries, frameworks, and services:
+List and explain any significant architectural or design decisions made during the development of the system. This may include decisions related to technology choices, patterns, libraries, frameworks, etc.
 
-- **Library/Framework 1**: Brief description of its use and version.
-- **Service 1**: Brief description of its purpose and integration points.
+### 1. Decision 1
 
-*Repeat for additional dependencies.*
+- **Context**: What was the context or problem being addressed?
+- **Decision**: What decision was made?
+- **Rationale**: Why was this decision made?
+- **Consequences**: What are the trade-offs or implications of this decision?
+
+### 2. Decision 2
+
+*Continue for each key design decision.*
+
+## Technology Stack
+
+List the technologies, frameworks, libraries, and tools used in the architecture, along with their versions and purposes.
+
+| Technology     | Version | Purpose                          |
+| -------------- | ------- | ----------------------------------|
+| Go             | 1.18    | Backend development               |
+| Fiber          | 2.x     | Web framework                     |
+| PostgreSQL     | 13      | Database                          |
+| Redis          | 6.x     | Caching and session management    |
+| Docker         | 20.x    | Containerization                  |
 
 ## Deployment Strategy
 
@@ -65,6 +88,14 @@ The application is deployed using **[e.g., Docker, Kubernetes, cloud services li
 - **Development Environment**: Describe the environment setup and purpose.
 - **Staging Environment**: Describe the environment setup and purpose.
 - **Production Environment**: Describe the environment setup and purpose.
+
+## Security Considerations
+
+Describe the key security considerations and measures taken to secure the system. This may include authentication, authorization, data encryption, network security, etc.
+
+## Performance Considerations
+
+Outline any performance optimizations implemented in the architecture. This may include caching strategies, database indexing, asynchronous processing, etc.
 
 ## Future Enhancements
 
@@ -77,4 +108,3 @@ Potential future improvements to the architecture may include:
 ## Conclusion
 
 This document provides a high-level overview of the architecture of **[Project Name]**. For detailed implementation guidance, refer to the source code and additional documentation available in this repository.
-
