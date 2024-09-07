@@ -75,8 +75,8 @@ To update a dependency, use:
 go get -u github.com/some/dependency
 ```
 
-Make sure to run go mod tidy to clean up any unused dependencies.
+Make sure to run `go mod tidy` to clean up any unused dependencies.
 
 ## License Information
 
-Make sure to review the licenses for all dependencies to ensure they are compatible with your project's licensing. You can typically find license information in the repository of each dependency or in the go.mod file.
+Make sure to review the licenses for all dependencies to ensure they are compatible with your project's licensing. You can typically find license information in the repository of each dependency or in the `go.mod` file.
