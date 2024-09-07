@@ -4,17 +4,15 @@
 
 ## Table of Contents
 
-- [Architecture Overview](#architecture-overview)
-  - [Table of Contents](#table-of-contents)
-  - [High-Level Architecture](#high-level-architecture)
-  - [Modules and Components](#modules-and-components)
-    - [Module 1: \[Module Name\]](#module-1-module-name)
-    - [Module 2: \[Module Name\]](#module-2-module-name)
-  - [Data Flow and State Management](#data-flow-and-state-management)
-  - [External Dependencies](#external-dependencies)
-  - [Deployment Strategy](#deployment-strategy)
-  - [Future Enhancements](#future-enhancements)
-  - [Conclusion](#conclusion)
+- [High-Level Architecture](#high-level-architecture)
+- [Modules and Components](#modules-and-components)
+  - [Module 1: \[Module Name\]](#module-1-module-name)
+  - [Module 2: \[Module Name\]](#module-2-module-name)
+- [Data Flow and State Management](#data-flow-and-state-management)
+- [External Dependencies](#external-dependencies)
+- [Deployment Strategy](#deployment-strategy)
+- [Future Enhancements](#future-enhancements)
+- [Conclusion](#conclusion)
 
 ## High-Level Architecture
 

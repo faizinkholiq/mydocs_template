@@ -4,16 +4,14 @@ This document outlines the steps to prepare, manage, and publish a new release f
 
 ## Table of Contents
 
-- [Release Process for **\[Project Name\]**](#release-process-for-project-name)
-  - [Table of Contents](#table-of-contents)
-  - [Release Types](#release-types)
-  - [Pre-Release Checklist](#pre-release-checklist)
-  - [Creating a Release](#creating-a-release)
-  - [Versioning](#versioning)
-  - [Testing and Quality Assurance](#testing-and-quality-assurance)
-  - [Publishing the Release](#publishing-the-release)
-  - [Post-Release Steps](#post-release-steps)
-  - [Rollback Procedures](#rollback-procedures)
+- [Release Types](#release-types)
+- [Pre-Release Checklist](#pre-release-checklist)
+- [Creating a Release](#creating-a-release)
+- [Versioning](#versioning)
+- [Testing and Quality Assurance](#testing-and-quality-assurance)
+- [Publishing the Release](#publishing-the-release)
+- [Post-Release Steps](#post-release-steps)
+- [Rollback Procedures](#rollback-procedures)
 
 ## Release Types
 

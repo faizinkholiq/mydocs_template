@@ -4,18 +4,16 @@ This document provides instructions for installing and setting up the project. F
 
 ## Table of Contents
 
-- [Installation Guide](#installation-guide)
-  - [Table of Contents](#table-of-contents)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-    - [Step 1: Clone the Repository](#step-1-clone-the-repository)
-    - [Step 2: Install Dependencies](#step-2-install-dependencies)
-    - [Step 3: Configure Environment Variables](#step-3-configure-environment-variables)
-    - [Step 4: Run Database Migrations](#step-4-run-database-migrations)
-    - [Step 5: Start the Application](#step-5-start-the-application)
-  - [Post-Installation](#post-installation)
-  - [Troubleshooting](#troubleshooting)
-  - [Uninstall](#uninstall)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+  - [Step 1: Clone the Repository](#step-1-clone-the-repository)
+  - [Step 2: Install Dependencies](#step-2-install-dependencies)
+  - [Step 3: Configure Environment Variables](#step-3-configure-environment-variables)
+  - [Step 4: Run Database Migrations](#step-4-run-database-migrations)
+  - [Step 5: Start the Application](#step-5-start-the-application)
+- [Post-Installation](#post-installation)
+- [Troubleshooting](#troubleshooting)
+- [Uninstall](#uninstall)
 
 ---
 

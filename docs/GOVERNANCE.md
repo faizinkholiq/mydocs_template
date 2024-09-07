@@ -4,18 +4,16 @@ This document outlines the governance policy for **[Project Name]**. The purpose
 
 ## Table of Contents
 
-- [Governance Policy](#governance-policy)
-  - [Table of Contents](#table-of-contents)
-  - [Project Roles](#project-roles)
-    - [1. Maintainers](#1-maintainers)
-    - [2. Contributors](#2-contributors)
-    - [3. Users](#3-users)
-  - [Decision-Making Process](#decision-making-process)
-    - [Decision-Making Guidelines:](#decision-making-guidelines)
-  - [Proposal Process](#proposal-process)
-  - [Conflict Resolution](#conflict-resolution)
-  - [Communication Channels](#communication-channels)
-  - [Amendments](#amendments)
+- [Project Roles](#project-roles)
+  - [1. Maintainers](#1-maintainers)
+  - [2. Contributors](#2-contributors)
+  - [3. Users](#3-users)
+- [Decision-Making Process](#decision-making-process)
+  - [Decision-Making Guidelines:](#decision-making-guidelines)
+- [Proposal Process](#proposal-process)
+- [Conflict Resolution](#conflict-resolution)
+- [Communication Channels](#communication-channels)
+- [Amendments](#amendments)
 
 ## Project Roles
 

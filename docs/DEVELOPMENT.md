@@ -4,18 +4,16 @@ Welcome to the development guide for **[Project Name]**. This document provides 
 
 ## Table of Contents
 
-- [Development Guide](#development-guide)
-  - [Table of Contents](#table-of-contents)
-  - [Getting Started](#getting-started)
-  - [Development Environment Setup](#development-environment-setup)
-    - [Prerequisites](#prerequisites)
-    - [Setting Up](#setting-up)
-  - [Coding Standards](#coding-standards)
-  - [Contributing](#contributing)
-  - [Testing](#testing)
-  - [Building](#building)
-  - [Common Issues](#common-issues)
-  - [Resources](#resources)
+- [Getting Started](#getting-started)
+- [Development Environment Setup](#development-environment-setup)
+- [Prerequisites](#prerequisites)
+- [Setting Up](#setting-up)
+- [Coding Standards](#coding-standards)
+- [Contributing](#contributing)
+- [Testing](#testing)
+- [Building](#building)
+- [Common Issues](#common-issues)
+- [Resources](#resources)
 
 ## Getting Started
 

@@ -4,19 +4,17 @@ This document provides instructions and important notes for upgrading from one v
 
 ## Table of Contents
 
-- [Upgrade Guide](#upgrade-guide)
-  - [Table of Contents](#table-of-contents)
-  - [Version 2.x to 3.x](#version-2x-to-3x)
-    - [Breaking Changes](#breaking-changes)
-    - [New Features](#new-features)
-    - [Upgrade Steps](#upgrade-steps)
-    - [Important Notes](#important-notes)
-  - [Version 1.x to 2.x](#version-1x-to-2x)
-    - [Breaking Changes](#breaking-changes-1)
-    - [New Features](#new-features-1)
-    - [Upgrade Steps](#upgrade-steps-1)
-    - [Important Notes](#important-notes-1)
-  - [General Notes](#general-notes)
+- [Version 2.x to 3.x](#version-2x-to-3x)
+  - [Breaking Changes](#breaking-changes)
+  - [New Features](#new-features)
+  - [Upgrade Steps](#upgrade-steps)
+  - [Important Notes](#important-notes)
+- [Version 1.x to 2.x](#version-1x-to-2x)
+  - [Breaking Changes](#breaking-changes-1)
+  - [New Features](#new-features-1)
+  - [Upgrade Steps](#upgrade-steps-1)
+  - [Important Notes](#important-notes-1)
+- [General Notes](#general-notes)
 
 ---
 

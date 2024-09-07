@@ -4,19 +4,16 @@ This document defines the coding style and best practices for the **[Project Nam
 
 ## Table of Contents
 
-- [Style Guide](#style-guide)
-  - [Table of Contents](#table-of-contents)
-  - [General Principles](#general-principles)
-  - [Formatting](#formatting)
-  - [Naming Conventions](#naming-conventions)
-  - [Code Structure](#code-structure)
-  - [Comments and Documentation](#comments-and-documentation)
-    - [Example:](#example)
-  - [Error Handling](#error-handling)
-  - [Testing](#testing)
-  - [Version Control Guidelines](#version-control-guidelines)
-  - [Additional Resources](#additional-resources)
-  - [References](#references)
+- [General Principles](#general-principles)
+- [Formatting](#formatting)
+- [Naming Conventions](#naming-conventions)
+- [Code Structure](#code-structure)
+- [Comments and Documentation](#comments-and-documentation)
+  - [Example:](#example)
+- [Error Handling](#error-handling)
+- [Testing](#testing)
+- [Version Control Guidelines](#version-control-guidelines)
+- [Additional Resources](#additional-resources)
 
 ## General Principles
 
