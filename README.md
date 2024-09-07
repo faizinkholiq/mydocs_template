@@ -6,8 +6,6 @@ A brief description of your project, what it does, and why it is useful.
 
 ## Table of Contents
 
-- [Project Name](#project-name)
-  - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Installation](#installation)
     - [Prerequisites](#prerequisites)
@@ -19,7 +17,6 @@ A brief description of your project, what it does, and why it is useful.
   - [Contributing](#contributing)
   - [License](#license)
   - [Contact](#contact)
-  - [](#)
 
 ## Features
 
