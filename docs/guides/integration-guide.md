@@ -71,3 +71,28 @@ service_a:
 service_b:
   api_key: your_api_key
   endpoint: https://api.service-b.com
+```
+
+## Testing the Integration
+
+Explain how to verify that the integration works as expected. Include:
+
+- Testing methods and tools
+- Sample test cases
+- How to verify successful integration
+
+## Troubleshooting
+
+Provide common issues and their solutions related to integration. Include:
+
+- Error messages and their meanings
+- Debugging tips
+- Contact information for support
+
+## Additional Resources
+
+Include links to additional documentation or resources related to integration, such as:
+
+- Service A Documentation
+- Service B Documentation
+- API Reference
